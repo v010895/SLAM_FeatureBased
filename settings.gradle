@@ -1,0 +1,2 @@
+//include ':openCVLibrary2413'
+include ':ORB_SLAM2_Android'
