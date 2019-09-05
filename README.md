@@ -18,3 +18,8 @@ Get dataset from [https://drive.google.com/file/d/1YPCtMuSMDa9b_npdbHcoj15Wq8eSK
 # Demo video
 
 [https://www.youtube.com/watch?v=CuvqlV6Lqlk](https://www.youtube.com/watch?v=CuvqlV6Lqlk).
+
+# Trajectory compare ground truth.
+
+<a><img src="https://github.com/v010895/SLAM_FeatureBased/blob/master/Trajectory/trajectory.png" alt="feature-based" width="240" height="180" border="10" /></a>
+<a><img src="https://github.com/v010895/SLAM_FeatureBased/blob/master/Trajectory/groundtruth.PNG" alt="feature-based" width="240" height="180" border="10" /></a>
